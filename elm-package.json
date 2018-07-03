@@ -1,5 +1,5 @@
 {
-    "version": "1.0.1",
+    "version": "2.0.0",
     "summary": "Wrapper for the Stripe Checkout.",
     "repository": "https://github.com/Shearerbeard/stripe.git",
     "license": "MIT",
@@ -7,7 +7,7 @@
         "src"
     ],
     "exposed-modules": [
-        "Checkout"
+        "Stripe"
     ],
     "dependencies": {
         "elm-lang/core": "5.1.1 <= v < 6.0.0",
