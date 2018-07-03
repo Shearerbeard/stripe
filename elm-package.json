@@ -1,6 +1,6 @@
 {
-    "version": "1.0.0",
-    "summary": "Wrapper for the Stripe Checkout embedded form.",
+    "version": "1.0.1",
+    "summary": "Wrapper for the Stripe Checkout.",
     "repository": "https://github.com/Shearerbeard/stripe.git",
     "license": "MIT",
     "source-directories": [
